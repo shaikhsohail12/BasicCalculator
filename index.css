@@ -86,3 +86,19 @@
     letter-spacing: 2px;
     text-transform: uppercase;
 }
+
+.btn12{
+    height: 50%;
+    width: 50%;
+    cursor: pointer;
+    border: none;
+    padding-block-start: 0.5rem;
+    padding-block-end: 0.5rem;
+    padding-inline-start: 1.25rem;
+    padding-inline-end: 1.25rem;
+    font-size: 1.6rem;
+    background-color: rgba(221, 206, 206, 0.005);
+    padding: 16px 30px 15px 30px;
+    margin: 9px 0 5px 0;
+    font-weight: 500;
+}
