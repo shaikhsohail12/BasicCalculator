@@ -1,3 +1,5 @@
+
+
 function Enter1(value) {
     document.getElementById('text1').value += value;
 }

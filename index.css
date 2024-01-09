@@ -12,7 +12,7 @@
 .calculator{
     position: absolute;
     background-color: rgba(221, 206, 206, 0.807);
-    height: 450px;
+    height: 485px;
     width: 360px;
     margin-left: 38%;
     margin-top: 10%;
@@ -65,10 +65,10 @@
     padding-block-end: 0.5rem;
     padding-inline-start: 1.25rem;
     padding-inline-end: 1.25rem;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     background-color: rgba(221, 206, 206, 0.005);
-    padding: 20px 30px 20px 30px;
-    margin: 10px 0 5px 0;
+    padding: 16px 30px 15px 30px;
+    margin: 9px 0 5px 0;
     font-weight: 500;
 }
 
@@ -76,4 +76,13 @@
     background-color: rgba(53, 52, 52, 0.632);
     color: white;
     border-radius: 50%;
+}
+
+.heading{
+    color: rgba(221, 206, 206, 0.807);;
+    margin-top: 10px;
+    font-weight: 800;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
